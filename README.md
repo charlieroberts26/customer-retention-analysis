@@ -2,7 +2,7 @@
 
 ## Objective
 
-Determine how effectively the company retains customers and identify which customers and customer segments generate the greatest long-term value.
+Determine how effectively the company retains customers and identify which customers and customer segments generate the greatest value.
 
 ## Dataset
 
@@ -36,10 +36,10 @@ The Superstore dataset contains sales transactions, profit, discounts, products,
 The customer base saw a small (3.73%) drop in size from 2014 to 2015 but has increased since then. The largest increase was 2015 to 2016 when the customer base grew by 11.8%.
 
 
-2014: 590 customers
-2015: 568 customers (-22, -3.73%)
-2016: 635 customers (+67, +11.80%)
-2017: 690 customers (+55, +8.66%)
+- 2014: 590 customers
+- 2015: 568 customers (-22, -3.73%)
+- 2016: 635 customers (+67, +11.80%)
+- 2017: 690 customers (+55, +8.66%)
 
 ### Top customers
 
