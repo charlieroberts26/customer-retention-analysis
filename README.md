@@ -67,6 +67,7 @@ Analysis showed that several of the highest-revenue customers were not among the
 
 Home Office customers generated the highest profit margin (14.05%) but contributed the least revenue and profit overall. Consumer customers generated the most revenue ($1.15M) and profit ($132.7K), despite having the lowest profit margin (11.53%). No one segment appears to be particularly beneficial or especially problematic.
 
+![Profit margin by customer segment](segment_profit_margins.png)
 
 ## Conclusion
 
